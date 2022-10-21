@@ -4,7 +4,7 @@ Estrutura básica de CRUD nas seguintes linguagens:
 
 - Java - SpringBoot + mongoDB
 
-- Java - SpringBoot + mySql
+- Java - SpringBoot + JPA
 
 - Php - Laravel
 

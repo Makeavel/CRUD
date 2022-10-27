@@ -8,4 +8,4 @@ Estrutura básica de CRUD nas seguintes linguagens:
 
 - Php - Laravel
 
-- C - Lista ligada
+- C - Lista ligada + Fila + Pilha

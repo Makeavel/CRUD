@@ -9,9 +9,11 @@ import lombok.Data;
 @Document(collection = "Usuario")
 public class Usuario {
 
-    private String nome;
     @Id
     private String cpf;
+    
+    private String nome;
+    
     
 
 
